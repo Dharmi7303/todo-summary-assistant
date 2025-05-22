@@ -2,7 +2,17 @@
 
 An AI-powered task management application that helps organize and summarize your tasks using Google's Gemini AI, with Slack integration for team updates.
 
-![Todo Summary Assistant Screenshot](./screenshots/dashboard.png)
+![image](https://github.com/user-attachments/assets/1f6b97a3-fa8d-437b-b581-7c073251b4db)
+![image](https://github.com/user-attachments/assets/d6303bd9-c74f-46a9-9aa9-6071fd07087f)
+![image](https://github.com/user-attachments/assets/114c3680-c855-453c-b7f9-9423ad65fc38)
+![image](https://github.com/user-attachments/assets/95e10a63-a6f2-4bf4-a442-166880ba69e9)
+![image](https://github.com/user-attachments/assets/3c2e9a40-d44e-4853-a404-7c2a6e22575a)
+![image](https://github.com/user-attachments/assets/b6a6e6ec-6391-4d45-8277-922c13c2e8df)
+![image](https://github.com/user-attachments/assets/5503d51b-e0b5-463d-bbd9-bfeb2a2ae20d)
+![image](https://github.com/user-attachments/assets/d0746bd4-7b0e-4a21-b3f6-0225277a06bf)
+![image](https://github.com/user-attachments/assets/ecae2c8b-6f9d-4736-9658-dde143fa3774)
+![image](https://github.com/user-attachments/assets/abaf5eea-1d20-44ee-bdfe-d959ab62e934)
+
 
 ## Table of Contents
 - [Features](#features)
