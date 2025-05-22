@@ -1,0 +1,32 @@
+.tasks-page {
+  padding: 20px 0;
+}
+
+.page-title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--dark);
+  margin-bottom: 30px;
+}
+
+.tasks-content {
+  display: flex;
+  gap: 30px;
+}
+
+.todo-section {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+@media (max-width: 768px) {
+  .page-title {
+    font-size: 1.8rem;
+  }
+  
+  .tasks-content {
+    flex-direction: column;
+  }
+}
